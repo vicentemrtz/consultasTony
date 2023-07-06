@@ -1,0 +1,17 @@
+﻿Abriendo los repositorios:
+C:\Users\Vicente Lara Mtz\source\repos\consultasTony
+Recuperando cambios de "consultasTony"
+Se produjo un error al recuperar: Error al recuperar desde el repositorio remoto. Consulte la ventana Resultados para obtener más detalles.
+Error al recuperar desde el repositorio remoto. Consulte la ventana Resultados para obtener más detalles.
+Enviando cambios de master
+Se produjo un error al insertar en el repositorio remoto: Git failed with a fatal error.
+Git failed with a fatal error.
+unable to access 'https://github.com/vicentemrtz/consultasTony.git/': error setting certificate verify locations:  CAfile: C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt CApath: none
+
+Error al insertar en el repositorio remoto. Consulte la ventana Resultados para obtener más detalles.
+Enviando cambios de master
+Error al insertar en el repositorio remoto. Consulte la ventana Resultados para obtener más detalles.
+Se produjo un error al insertar en el repositorio remoto: Git failed with a fatal error.
+Git failed with a fatal error.
+unable to access 'https://github.com/vicentemrtz/consultasTony.git/': error setting certificate verify locations:  CAfile: C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt CApath: none
+
